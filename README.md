@@ -14,4 +14,4 @@ npm run dev
 npm run server
 ```
 
-3. browser http://localhost:3000 .
+3. Open http://localhost:3000 .
