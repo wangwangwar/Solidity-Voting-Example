@@ -1,0 +1,31 @@
+{
+  "name": "voting-example",
+  "version": "0.0.1",
+  "description": "Voting Example with Solidity and Ethereum",
+  "main": "index.js",
+  "dependencies": {
+    "solc": "^0.4.14",
+    "web3": "^0.19.1"
+  },
+  "devDependencies": {
+    "ethereumjs-testrpc": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangwangwar/Solidity-Voting-Example.git"
+  },
+  "keywords": [
+    "Voting",
+    "Solidity",
+    "Ethereum"
+  ],
+  "author": "wangwangwar",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/wangwangwar/Solidity-Voting-Example/issues"
+  },
+  "homepage": "https://github.com/wangwangwar/Solidity-Voting-Example#readme"
+}
